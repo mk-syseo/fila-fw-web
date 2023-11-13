@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="d18rmvaiba">
+            <path data-name="사각형 281" style="fill:none" d="M0 0h14v14H0z"/>
+        </clipPath>
+    </defs>
+    <path data-name="사각형 277" style="fill:none" d="M0 0h16v16H0z"/>
+    <g data-name="그룹 207" transform="translate(1 1)" style="clip-path:url(#d18rmvaiba)">
+        <rect data-name="사각형 280" width="13" height="10.833" rx="2" transform="translate(.5 2.667)" style="stroke:#002053;stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+        <path data-name="선 44" transform="translate(3.75 .5)" style="stroke:#002053;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 0v2.167"/>
+        <path data-name="선 45" transform="translate(10.25 .5)" style="stroke:#002053;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 0v2.167"/>
+        <path data-name="선 46" transform="translate(.5 6)" style="stroke:#002053;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 0h13"/>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+{
+  "id": "test",
+  "data": [
+    {
+      "dataField": "id",
+      "headerText": "ID",
+      "width": 100
+    },
+    {
+      "dataField": "name",
+      "headerText": "이름",
+      "width": 200
+    },
+    {
+      "dataField": "age",
+      "headerText": "나이",
+      "dataType": "numeric",
+      "width": 100
+    },
+    {
+      "dataField": "dept",
+      "headerText": "부서",
+      "width": 200
+    },
+    {
+      "dataField": "phone",
+      "headerText": "전화번호",
+      "width": 200,
+      "filter": {
+        "showIcon": true,
+        "inline": false
+      },
+      "visible": false
+    },
+    {
+      "dataField": "email",
+      "headerText": "이메일",
+      "width": "300",
+      "visible": false
+    }
+  ]
+}

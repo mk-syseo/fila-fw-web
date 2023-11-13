@@ -1,0 +1,44 @@
+html,
+body {
+	font-family: 'Pretendard';
+}
+
+body {
+	min-width: 1280px;
+	overflow: hidden;
+}
+
+i {
+	font-style: normal;
+}
+
+.main-wrap {
+	display: flex;
+	height: 100vh;
+}
+
+input[type='text'], input[type='number'], input[type="password"] {
+	width: 100%;
+	height: 28px;
+	padding: 0 8px;
+	border-radius: 4px;
+	outline: 0;
+	font-size: 13px;
+}
+
+input[type='number'] {
+	text-align: right;
+}
+
+textarea {
+	width: 100%;
+	padding: 8px;
+	border: 1px solid var(--finput-border);
+	background-color: var(--finput-bg);
+	border-radius: 4px;
+	outline: 0;
+	font-size: 13px;
+	color: var(--basic-text);
+	resize: none;
+	font-family: 'Pretendard';
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+    <g data-name="사각형 568" style="fill:#fff;stroke:#002053">
+        <rect width="12" height="12" rx="2" style="stroke:none"/>
+        <rect x=".5" y=".5" width="11" height="11" rx="1.5" style="fill:none"/>
+    </g>
+    <g data-name="그룹 370">
+        <path data-name="사각형 569" transform="translate(3.5 5.5)" style="fill:#002053" d="M0 0h5v1H0z"/>
+    </g>
+</svg>

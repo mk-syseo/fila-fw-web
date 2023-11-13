@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g transform="translate(-207 -57)">
+        <path data-name="사각형 447" transform="translate(207 57)" style="fill:#fff" d="M0 0h16v16H0z"/>
+        <rect data-name="사각형 529" width="4" height="1" rx=".5" transform="translate(209 68)" style="fill:#002053"/>
+        <rect data-name="사각형 530" width="6" height="1" rx=".5" transform="translate(209 64)" style="fill:#002053"/>
+        <rect data-name="사각형 531" width="12" height="1" rx=".5" transform="translate(209 60)" style="fill:#002053"/>
+        <path data-name="패스 159" d="M219 70.365a.524.524 0 0 1-.369-.152l-2.478-2.462a.517.517 0 0 1 0-.734.525.525 0 0 1 .739 0L219 69.112l2.108-2.095a.525.525 0 0 1 .739 0 .517.517 0 0 1 0 .734l-2.478 2.462a.524.524 0 0 1-.369.152z" transform="translate(-1.004 -.365)" style="fill:#002053"/>
+        <path data-name="패스 159" d="M227.047 64.5V69" transform="translate(-9.047)" style="fill:none;stroke:#002053;stroke-linecap:round"/>
+    </g>
+</svg>

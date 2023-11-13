@@ -1,0 +1,21 @@
+{
+    "editor.tabSize": 2,
+    "workbench.editor.enablePreview": false,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "vue",
+      "markdown"
+    ],
+    "eslint.workingDirectories": [
+      {
+        "mode": "auto"
+      }
+    ],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    },
+    "editor.formatOnSave": true
+  }

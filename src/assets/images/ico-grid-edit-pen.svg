@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g transform="translate(-207 -57)">
+        <path data-name="사각형 447" transform="translate(207 57)" style="fill:none" d="M0 0h16v16H0z"/>
+        <rect data-name="사각형 449" width="14" height="1" rx=".5" transform="translate(208 71)" style="fill:#002053"/>
+        <g data-name="패스 149" style="fill:none">
+            <path d="M1 0h2a1.089 1.089 0 0 1 1 1.16v9.277a4.693 4.693 0 0 1-2.067 3.3A4.833 4.833 0 0 1 0 10.436V1.16A1.089 1.089 0 0 1 1 0z" style="stroke:none" transform="rotate(45 39.488 293.527)"/>
+            <path d="M1.045 1A.274.274 0 0 0 1 1.16v9.276c0 .262.192 1.078.96 1.943C2.792 11.517 3 10.7 3 10.436V1.16A.274.274 0 0 0 2.955 1h-1.91M1 0h2c.552 0 1 .52 1 1.16v9.276c0 .64-.454 2.07-2.067 3.3C.44 12.505 0 11.075 0 10.435V1.16C0 .52.448 0 1 0z" style="fill:#002053;stroke:none" transform="rotate(45 39.488 293.527)"/>
+        </g>
+        <path data-name="사각형 450" transform="rotate(-45 185.462 -223.114)" style="fill:#002053" d="M0 0h1v3H0z"/>
+        <path data-name="사각형 451" transform="rotate(-45 181.927 -231.65)" style="fill:#002053" d="M0 0h1v3H0z"/>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="타원 6" style="stroke:#ddd;stroke-width:2px;fill:#fff">
+        <circle cx="12" cy="12" r="12" style="stroke:none"/>
+        <circle cx="12" cy="12" r="11" style="fill:none"/>
+    </g>
+    <path data-name="패스 7" d="m1591.812 477 3.446 3.446 6.319-6.319" transform="translate(-1584.694 -465.287)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#ddd;stroke-width:2px"/>
+</svg>

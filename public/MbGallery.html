@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 이미지 불러오기 예제</title>
+</head>
+<body>
+    <h1>HTML5 이미지 불러오기 예제</h1>
+
+    <input type="file" id="fileInput" accept="image/*">
+    <img id="selectedImage" style="max-width: 100%;">
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const fileInput = document.getElementById('fileInput');
+            const selectedImage = document.getElementById('selectedImage');
+
+            fileInput.addEventListener('change', function (event) {
+                const selectedFile = event.target.files[0];
+
+                if (selectedFile) {
+                    // FileReader를 사용하여 이미지를 읽어와서 표시
+                    const reader = new FileReader();
+
+                    reader.onload = function (e) {
+                        selectedImage.src = e.target.result;
+                    };
+
+                    reader.readAsDataURL(selectedFile);
+                }
+            });
+        });
+    </script>
+</body>
+</html>

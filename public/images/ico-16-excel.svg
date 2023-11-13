@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <path data-name="사각형 119" style="fill:none" d="M0 0h16v16H0z"/>
+    <g data-name="그룹 426">
+        <g data-name="패스 176" style="fill:none">
+            <path d="m0 2 10-2v14L0 12z" style="stroke:none" transform="translate(0 1)"/>
+            <path d="m8.5 1.83-7 1.4v7.54l7 1.4V1.83M10 0v14L0 12V2l10-2z" style="fill:#002053;stroke:none" transform="translate(0 1)"/>
+        </g>
+        <path data-name="선 49" transform="rotate(-45 13.01 .44)" style="stroke-linejoin:round;stroke:#002053;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M0 0h4"/>
+        <path data-name="선 50" transform="rotate(-45 9.596 -.975)" style="stroke-linejoin:round;stroke:#002053;stroke-linecap:round;stroke-width:1.5px;fill:none" d="M0 0v4"/>
+    </g>
+    <path data-name="빼기 5" d="M-6873-833h-6v-1.5h4.5v-7h-4.5v-1.5h6v10z" transform="translate(6889 846)" style="fill:#002053"/>
+    <path data-name="패스 177" d="M0 0h1" transform="translate(11.5 6.75)" style="stroke:#002053;stroke-linecap:round;stroke-width:1.5px;fill:none"/>
+    <path data-name="패스 178" d="M0 0h1" transform="translate(11.5 9)" style="stroke:#002053;stroke-linecap:round;stroke-width:1.5px;fill:none"/>
+</svg>

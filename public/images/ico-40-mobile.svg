@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="d93wttbvga">
+            <path data-name="사각형 733" style="fill:none" d="M0 0h24v34H0z"/>
+        </clipPath>
+    </defs>
+    <path data-name="사각형 731" style="fill:none" d="M0 0h40v40H0z"/>
+    <g data-name="그룹 446" transform="translate(8 3)" style="clip-path:url(#d93wttbvga)">
+        <path data-name="패스 207" d="M19 33H5a4 4 0 0 1-4-4V5a4 4 0 0 1 4-4h14c2.209 0 4 1.791 4 3v24c0 3.209-1.791 5-4 5" style="fill:#fff"/>
+        <path data-name="패스 208" d="M23 11S15.2 26.738 1 26.738v2.1C1 32.239 2.788 33 4.995 33H19c2.207 0 4-2.761 4-6.166z" style="fill:#e1002b"/>
+        <path data-name="패스 209" d="M23 18.8S15.2 27 1 27v2a4 4 0 0 0 3.995 4H19a4 4 0 0 0 4-4z" style="fill:#0752c9"/>
+        <path data-name="선 61" transform="translate(8.913 6.217)" style="stroke:#000111;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px;fill:none" d="M0 0h6.174"/>
+        <rect data-name="사각형 732" width="22" height="32" rx="4" transform="translate(1 1)" style="stroke:#000111;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px;fill:none"/>
+    </g>
+</svg>
